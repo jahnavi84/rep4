@@ -24,7 +24,19 @@ Java is a general-purpose, class-based, object-oriented programming language des
 # Example
 This is an example of **BOLD** and *ILALIC* and ***BOLD AND ITALIC*** 
 
-#Create a link
-Syntax:[text](url)
+# Create a link
+The Syntaxfor creating link is [text](url).Example:[GOOGLE](https://www.google.com/)
 
-Example:[GOOGLE](https://www.google.com/)
+# Create a table
+s.no|s.name|s.marks
+-----|-----|---------
+1|janu|75
+2|nikki|72
+3|chinni|70
+4|vinni|70
+5|amru|71
+6|tanu|65
+7|peral|70
+8|sanj|65
+9|shanu|65
+
