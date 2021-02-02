@@ -39,5 +39,9 @@ s.no|s.name|s.marks
 # Insert Image
 ![Image](img.jpg)
 
+# Inserting Code
+Explaning sum of two numbers using python.
 
-
+a=5
+b=5
+print("Sum of {} and {} is {}",.format(a,b,c))
