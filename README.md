@@ -37,7 +37,7 @@ s.no|s.name|s.marks
 5|e|71
 
 # Insert Image
-[Image](img.jpg)
+![Image](img.jpg)
 
 
 
