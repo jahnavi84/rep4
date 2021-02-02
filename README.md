@@ -5,11 +5,18 @@ this is heading 1
 this is heading 2
 
 # what is java
-java is object oriented programming language.programs in java are ended with .java as file extension.also the name of the program is same as the name of the class in program.in java static is used so no object creation is required.
+Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.
 
 # what are the oops concepts in java
 * class and object
+ * class
+   * object
 * inheritance
 * obstraction
 * polymorphism
 * encapsulation
+
+# ordrerd list
+1. one
+2. two
+3. three
