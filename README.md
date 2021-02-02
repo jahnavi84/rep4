@@ -38,6 +38,7 @@ s.no|s.name|s.marks
 
 # Insert Image
 ![Image](img.jpg)
+![Image](img1.jpg)
 
 # Inserting Code
 Explaning sum of two numbers using python.
