@@ -42,6 +42,7 @@ s.no|s.name|s.marks
 # Inserting Code
 Explaning sum of two numbers using python.
 
-a=5
-b=5
-print("Sum of {} and {} is {}",.format(a,b,c))
+    a=5
+    b=5
+    c=a+b
+    print("Sum of {} and {} is {}",.format(a,b,c))
