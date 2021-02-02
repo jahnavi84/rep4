@@ -30,14 +30,14 @@ The Syntaxfor creating link is [text](url).Example:[GOOGLE](https://www.google.c
 # Create a table
 s.no|s.name|s.marks
 -----|-----|---------
-1|janu|75
-2|nikki|72
-3|chinni|70
-4|vinni|70
-5|amru|71
-6|tanu|65
-7|peral|70
-8|sanj|65
-9|shanu|65
+1|a|75
+2|b|72
+3|c|70
+4|d|70
+5|e|71
+
+# Insert Image
+[Image](img.jpg)
+
 
 
